@@ -1,0 +1,2 @@
+This code is designed for template matching and inpainting on an input image using OpenCV
+it is a comprehensive example of template matching and inpainting techniques applied to an input image. It finds and marks regions in the input image that match predefined templates (in this case the letters A, C and M) and demonstrates the use of inpainting to fill in and restore regions within the image.
